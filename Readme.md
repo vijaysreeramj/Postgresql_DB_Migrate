@@ -40,7 +40,7 @@
 
 ## Import .sql file from DB:
 
-   step-1:
+    step-1:
         Modify the connection string to connect DB
 
     step-2:
